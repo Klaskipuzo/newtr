@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace newtr
 {
     internal class Program
-    {//Triangle
+    {//Trianglee
         static void Main(string[] args)
         {
             Console.WriteLine("hello, what is the height of the triangle ! ");
